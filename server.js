@@ -2,4 +2,4 @@ const app = require('./src/app'); // requerindo o arquivo app.js pra ser usado n
 const PORT = process.env.PORT || 8000; // definindo a porta de conexão
 
 app.listen(PORT, () => 
-    console.log(`Servidor rodando na porta ${PORT}`)); // criando a conexão do servidor
+    console.log(`Servidor Rodando na Porta ${PORT}`)); // criando a conexão do servidor

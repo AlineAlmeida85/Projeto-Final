@@ -8,7 +8,7 @@ const mongoose = require('mongoose')
             useNewUrlParser: true,
             useUnifiedTopology: true
         })
-        console.log("Banco de Dados Conectado com Muitoo Sucessoo!")
+        console.log("Banco de Dados Conectado com Sucesso!")
     } catch (error) {
         console.log("Erro: ", error.message)
     }

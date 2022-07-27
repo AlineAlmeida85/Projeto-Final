@@ -32,25 +32,25 @@ ___
 
 ## 📌 Título
 
-#### 
+#### Projeto Final
 
 ___
 ## ✒️ Descrição
 
-#### 
+#### Criar uma espécie de repositório para alunos arquivarem explicações e conteúdos escolares para acompanhamento estudantil.
 
 ___
 ## ⏱️ Status
 
->  🚀 Em construção 👌 🚧
+>  🚀 Projeto Concluído com Sucesso!!! 👌 🚧
 
 ___
 ## 🔨 Funcionalidades 🛠️
 
-- `1 `  ✔️
-- `2 `  ✔️
-- `3 `  ✔️
-- `4 `  ✔️
+- `1 ` Armazenar explicações e conteúdos escolares ✔️
+- `2 ` Ter um lugar exclusivo para documentar conteúdos escolares ✔️
+- `3 ` Fácil acesso aos conteúdos ✔️
+- `4 ` Compartilhar com colegas de turma a fim de trocar conhecimento ✔️
 ___
 ## 🚀 Demonstração 
 
@@ -67,7 +67,7 @@ ___
 <br>
 <div align="center">
 
-| [<img src="" width=100><br><h4>1 </h4>]() | [<img src="" width=100><br><h4>2 </h4>]() |  [<img src="" width=100><br><h4>3 </h4>]() | [<img src="" width=100><br><h4>4 </h4>]() | [<img src="" width=100><br><h4>5 </h4>]() |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=100><br>](https://www.javascript.com/) | [<img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width=100><br>](https://nodejs.org/en/) |  [<img src="https://appuals.com/wp-content/uploads/2020/06/intro.jpg" width=100><br>](https://gitforwindows.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width=100><br>](https://www.mongodb.com/pt-br) | [<img src="https://www.nicepng.com/png/detail/223-2233246_heroku-logo-salesforce-heroku.png" width=100><br><h4>5 </h4>](https://dashboard.heroku.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 </div>
 <br>
@@ -75,7 +75,7 @@ ___
 ___
 ## 📁 Acesso ao Projeto 
 
-### [Projeto]()
+### [Projeto](https://repositorioescolar.herokuapp.com/)
 
 ___
 ## 🖇️ Pessoas Contribuidoras 🤝
