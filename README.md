@@ -13,7 +13,6 @@ ___
   * 👉 [Pré-requisitos](#📋-pré-requisitos)
   * 👉 [Tecnologias utilizadas](#⚙️-tecnologias-utilizadas)
   * 👉 [Acesso ao Projeto](#📁-acesso-ao-projeto)
-  * 👉 [Pessoas Contribuidoras](#🖇️-pessoas-contribuidoras-🤝)
   * 👉 [Autor](#🏆-autor)
   * 👉 [Licença](#🙏-licença-🔖) 
   * 👉 [Conclusão](#📚-conclusão)
@@ -54,7 +53,11 @@ ___
 ___
 ## 🚀 Demonstração 
 
-> 🚧 Em construção 🚧
+### Rotas
+* C -> [Create](https://repositorioescolar.herokuapp.com/repos/create)
+* R -> [Read](https://repositorioescolar.herokuapp.com/repos/all)
+* U -> [Update](https://repositorioescolar.herokuapp.com/repos/update/)
+* D -> [Delete](https://repositorioescolar.herokuapp.com/repos/delete/)
 
 ___
 ## 📋 Pré-Requisitos 
@@ -67,24 +70,15 @@ ___
 <br>
 <div align="center">
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=100><br>](https://www.javascript.com/) | [<img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width=100><br>](https://nodejs.org/en/) |  [<img src="https://appuals.com/wp-content/uploads/2020/06/intro.jpg" width=100><br>](https://gitforwindows.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width=100><br>](https://www.mongodb.com/pt-br) | [<img src="https://www.nicepng.com/png/detail/223-2233246_heroku-logo-salesforce-heroku.png" width=100><br><h4>5 </h4>](https://dashboard.heroku.com/) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=100><br>](https://www.javascript.com/) | [<img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width=100><br>](https://nodejs.org/en/) |  [<img src="https://appuals.com/wp-content/uploads/2020/06/intro.jpg" width=100><br>](https://gitforwindows.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width=100><br>](https://www.mongodb.com/pt-br) | [<img src="https://www.nicepng.com/png/detail/223-2233246_heroku-logo-salesforce-heroku.png" width=100><br>](https://dashboard.heroku.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 </div>
 <br>
 
-___
+
 ## 📁 Acesso ao Projeto 
 
 ### [Projeto](https://repositorioescolar.herokuapp.com/)
-
-___
-## 🖇️ Pessoas Contribuidoras 🤝
-
-<div align="left">
-
-| [<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115 style="border-radius: 50%;"><br><h2> Aline Almeida </h2>](https://github.com/AlineAlmeida85) |
-| :---: | 
-</div>
 
 
 ___
