@@ -46,18 +46,14 @@ ___
 ___
 ## 🔨 Funcionalidades 🛠️
 
-- `1 ` Armazenar explicações e conteúdos escolares ✔️
+- `1 ` Armazenar explicações de aulas e conteúdos escolares ✔️
 - `2 ` Ter um lugar exclusivo para documentar conteúdos escolares ✔️
 - `3 ` Fácil acesso aos conteúdos ✔️
 - `4 ` Compartilhar com colegas de turma a fim de trocar conhecimento ✔️
 ___
 ## 🚀 Demonstração 
 
-### Rotas
-* C -> [Create](https://repositorioescolar.herokuapp.com/repos/create)
-* R -> [Read](https://repositorioescolar.herokuapp.com/repos/all)
-* U -> [Update](https://repositorioescolar.herokuapp.com/repos/update/)
-* D -> [Delete](https://repositorioescolar.herokuapp.com/repos/delete/)
+Apresentação
 
 ___
 ## 📋 Pré-Requisitos 
