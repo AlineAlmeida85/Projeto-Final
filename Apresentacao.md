@@ -24,10 +24,10 @@ ___
 
 
 - `1 ` [**Rota Principal**](Demonstracao1.md)
-- `2 ` [**C**]()
-- `3 ` [**R**]()
-- `4 ` [**U**]()
-- `5 ` [**D**]()
+- `2 ` [**C - Post**](Demonstracao2.md)
+- `3 ` [**R - Get**](Demonstracao3.md)
+- `4 ` [**U - Update**](Demonstracao4.md)
+- `5 ` [**D - Delete**](Demonstracao5.md)
 
 
 
