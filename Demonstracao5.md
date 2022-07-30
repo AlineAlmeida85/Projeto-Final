@@ -2,12 +2,7 @@
 
 ### Postman
 <p align="center">
-  <img alt="gif" title="gif" src="./gif/.gif"/>
-</p>
-
-### Heroku
-<p align="center">
-  <img alt="gif" title="gif" src="./gif/.gif"/>
+  <img alt="foto" title="foto" src="./img/foto08.png"/>
 </p>
 
 

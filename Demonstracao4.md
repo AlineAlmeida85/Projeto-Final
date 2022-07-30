@@ -2,12 +2,8 @@
 
 ### Postman
 <p align="center">
-  <img alt="gif" title="gif" src="./gif/.gif"/>
+  <img alt="foto" title="foto" src="./img/foto07.png"/>
 </p>
 
-### Heroku
-<p align="center">
-  <img alt="gif" title="gif" src="./gif/.gif"/>
-</p>
 
 Voltar para [R - Get](https://github.com/AlineAlmeida85/Projeto-Final/blob/main/Demonstracao3.md)_____________________________________________________________________________________________________________Ir para [D - Delete](https://github.com/AlineAlmeida85/Projeto-Final/blob/main/Demonstracao5.md)
