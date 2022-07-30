@@ -52,8 +52,11 @@ ___
 - `4 ` Compartilhar com colegas de turma a fim de trocar conhecimento ✔️
 ___
 ## 🚀 Demonstração 
+<div align="center">
 
-[Apresentação](Apresentacao.md)
+[Apresentação](./readme/Apresentacao.md)
+
+</div>
 
 ___
 ## 📋 Pré-Requisitos 
@@ -73,9 +76,11 @@ ___
 
 
 ## 📁 Acesso ao Projeto 
+<div align="center">
 
-### [Projeto](https://repositorioescolar.herokuapp.com/)
+### Projeto no [Heroku](https://repositorioescolar.herokuapp.com/)
 
+</div>
 
 ___
 ## 🏆 Autor 
